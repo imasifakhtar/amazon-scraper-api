@@ -14,8 +14,8 @@ To use this API, you will need the following:
 To install the API, clone the repository and install the dependencies:
 
 ```
-git clone https://github.com/your-username/amazon-api.git
-cd amazon-api
+git clone https://github.com/your-username/amazon-scraper-api.git
+cd amazon-scraper-api
 npm install
 ```
 
